@@ -1,0 +1,102 @@
+[
+
+
+    {
+        "id": "1",
+        "question": "পবিত্র কুরআনুল কারীমের সবচেয়ে ছোট সূরা কোনটি",
+        "ans": "ii. সূরা কাউছার",
+        "option": [
+            "সূরা বাকারা",
+            "সূরা কাউছার",
+            "সূরা নাস",
+            "সূরা ফালাক"
+        ]
+    },
+
+    {
+        "id": "2",
+        "question": "People around the world are slowly changing their attitude toward medicine  the word attitude is similar to ",
+        "ans": "i. believe",
+        "option": [
+            "believe",
+            "belief",
+            "fate",
+            "altitude"
+        ]
+    },
+
+
+    {
+        "id": "3",
+        "question": "More and more they are turning to natural cures. Here ‘turning’ means",
+        "ans": "iv. shifting",
+        "option": [
+            "tuning",
+            "using",
+            "welcoming",
+            "shifting"
+        ]
+
+    },
+
+
+    {
+        "id": "4",
+        "question": "Herbal medicines were used in ancient civilizations. What does ‘ancient’mean?",
+        "ans": "iv. old",
+        "option": [
+            "recent",
+            "modern",
+            "new",
+            "old"
+        ]
+    },
+
+    {
+        "id": "5",
+        "question": "People’s tendency to go for natural cures is",
+        "ans": "ii. increasing",
+        "option": [
+            "unchanging",
+            "increasing",
+            "decreasing",
+            "falling"
+        ]
+    },
+
+    {
+        "id": "6",
+        "question": "The history of herbal treatment relates to",
+        "ans": "iv. many civilisations",
+        "option": [
+            "rural civilisation",
+            "one civilisation",
+            "specific civilisation",
+            "many civilisations"
+        ]
+    },
+
+    {
+        "id": "7",
+        "question": "Honey with basil leaves is a natural remedy for",
+        "ans": "iv. cold",
+        "option": [
+            "injury",
+            "burn",
+            "cut",
+            "cold"
+        ]
+    },
+    {
+        "id": "8",
+        "question": "People understand that natural cures",
+        "ans": "iv. gives benefits",
+        "option": [
+            "have side effects",
+            "save rural life",
+            "are useless",
+            "gives benefits"
+        ]
+    }
+
+]

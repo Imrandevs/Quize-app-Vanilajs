@@ -1,0 +1,126 @@
+    @font-face {
+        font-family: digital clock;
+        src: url('../fonts/TickingTimebombBB_ital.ttf');
+    }
+    
+    body {
+        margin: auto;
+    }
+    
+    .start_btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .quize {
+        width: 500px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+    
+    .quize ul {
+        padding: 0;
+    }
+    
+    .quize li {
+        list-style: none;
+        padding-left: 0;
+        padding: 10px 20px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+        background-color: #ffff;
+        color: #111;
+        font-size: 18px;
+        border: 3px solid grey;
+        cursor: pointer;
+        user-select: none;
+    }
+    
+    .quize li.done {
+        pointer-events: none;
+    }
+    /* .quize li:hover {
+        transform: scale(1.2);
+        background-color: #0286D9;
+        color: white;
+        opacity: 0.6;
+        text-align: center;
+    } */
+    
+    h4 {
+        font-weight: normal;
+        font-size: 24px;
+        margin-bottom: 15px;
+        color: white;
+        user-select: none;
+    }
+    
+    .cquize {
+        background-color: #4B00A5 !important;
+    }
+    
+    .quize h2 {
+        color: white;
+        font-weight: normal;
+        font-size: 24px
+    }
+    
+    .quize p {
+        float: right;
+        color: aliceblue;
+    }
+    
+    .quizeBody {
+        background-color: #F7C401;
+    }
+    
+    .button {
+        text-align: right;
+    }
+    
+    .quize-con {
+        width: 500px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+    
+    .result {
+        width: 500px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+    }
+    
+    .result img {
+        width: 200px;
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .result h3 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: 900;
+    }
+    
+    .result p {
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    #nextQuize {
+        pointer-events: none;
+        float: right;
+    }
